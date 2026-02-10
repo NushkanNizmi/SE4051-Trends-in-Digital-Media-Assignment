@@ -1,1 +1,237 @@
-# SE4051-Trends-in-Digital-Media-Assignment
+# SE4051 – Trends in Digital Media 
+
+## Individual Assignment (10%) 
+
+### Assignment Title 
+
+Designing an Intelligent and Human-Centered Interactive Environment 
+
+---
+
+### Assignment Duration 
+
+The submission deadline will be communicated in due course
+
+---
+
+## Assignment Overview 
+
+In this assignment, you are required to design and develop an interactive digital environment that demonstrates intelligent behavior, adaptive responses, and user-centered design. 
+
+Modern digital media systems are no longer static — they detect, react, and adapt to users and their surroundings. This assignment will allow you to explore these ideas by creating an environment that behaves dynamically rather than remaining fixed. 
+
+The task encourages creative thinking, independent exploration, and practical application of emerging trends in digital media. 
+
+---
+
+## Assignment Structure 
+
+This assignment consists of three components: 
+
+Component 1 — Concept Proposal (2%) 
+
+Component 2 — Interactive Environment Development (4%) 
+
+Component 3 — Self-Study Innovation (4%) 
+
+---
+
+## Component 1 — Concept Proposal (2%) 
+
+Before starting development, you must clearly define your idea. 
+
+Submit a one-page concept proposal that includes: 
+
+Title of your environment 
+
+Scenario or application domain 
+
+Target user 
+
+Description of how the system will behave intelligently 
+
+Planned adaptive features 
+
+Intended user experience 
+
+Your concept can evolve during development; however, starting with a clear idea is essential. 
+
+---
+
+## Component 2 — Interactive Environment Development (4%) 
+
+You must design and implement a functional interactive environment. 
+
+Your system must include the following: 
+
+### Intelligent Behavior 
+
+The environment must contain at least one system that reacts based on defined conditions. 
+
+Examples include: 
+
+Objects reacting to proximity 
+
+NPC responses 
+
+Triggered events 
+
+Dynamic alerts 
+
+---
+
+### Adaptive Environment 
+
+The virtual space must transform in response to user interaction. 
+
+Examples include: 
+
+Lighting changes 
+
+Audio feedback 
+
+Environmental transitions 
+
+Visual state changes 
+
+---
+
+### Human-Centered Design 
+
+Your environment should prioritize the user experience. 
+
+Consider: 
+
+Intuitive interaction 
+
+Clear feedback 
+
+Usability 
+
+Accessibility features 
+
+---
+
+## Component 3 — Self-Study Innovation (4%) 
+
+(Critical Final-Year Requirement) 
+
+You are required to independently explore one emerging trend beyond lecture and lab coverage and integrate it into your environment. 
+
+Possible areas include: 
+
+AI-inspired behaviors 
+
+Context-aware systems 
+
+Emotion simulation 
+
+Intelligent agents 
+
+Multisensory interaction 
+
+Accessibility innovation 
+
+Real-world data influence 
+
+### Self-Study Evidence 
+
+Provide a short explanation (approximately 300–500 words) describing: 
+
+What you explored 
+
+Why you selected it 
+
+How it enhances your system 
+
+What you learned 
+
+Depth of understanding is more important than technical complexity. 
+
+---
+
+## Creative Freedom 
+
+This assignment is intentionally open-ended to encourage innovation and originality. 
+
+You are encouraged to experiment with ideas and develop a unique interactive experience. 
+
+Possible themes include (but are not limited to): 
+
+Smart simulations 
+
+Training environments 
+
+Adaptive learning spaces 
+
+Interactive narratives 
+
+Assistive systems 
+
+Intelligent game worlds 
+
+These examples are only suggestions — original ideas are strongly encouraged. 
+
+---
+
+## Submission Requirements 
+
+You must submit the following: 
+
+### 1. Interactive Unity Project 
+
+Include only the required folders:
+Assets/
+Packages/
+ProjectSettings/
+
+
+---
+
+### 2. Concept Proposal (Component 1) 
+
+---
+
+### 3. Self-Study Explanation (Component 3) 
+
+---
+
+## Assessment Focus 
+
+Your work will be evaluated based on: 
+
+Clarity of the concept 
+
+Demonstration of intelligent interaction 
+
+Effectiveness of environmental adaptation 
+
+Evidence of independent exploration 
+
+Creativity and originality 
+
+User-centered design 
+
+Technical functionality 
+
+High-end graphics are not required. 
+System behavior and interaction design are more important than visual polish. 
+
+---
+
+## Important Academic Expectations 
+
+As a final-year student, you are expected to demonstrate: 
+
+Initiative 
+
+Independent thinking 
+
+Design maturity 
+
+Problem-solving ability 
+
+Work that closely replicates publicly available tutorials will receive lower marks. 
+
+You may use external resources for learning; however, your final submission must reflect your own understanding and implementation. 
+
