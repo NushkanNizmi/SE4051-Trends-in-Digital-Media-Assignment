@@ -24,11 +24,11 @@ Students are required to design and develop an interactive digital environment t
 
 This assignment consists of three components: 
 
-Component 1 - Concept Proposal (2%) 
+Component 1 - Concept Proposal (20%) 
 
-Component 2 - Interactive Environment Development (4%) 
+Component 2 - Interactive Environment Development (40%) 
 
-Component 3 - Self-Study Innovation (4%) 
+Component 3 - Self-Study Innovation (40%) 
 
 ---
 
